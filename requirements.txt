@@ -1,1 +1,5 @@
-streamlit\nopenai\npandas\npython-dotenv
+streamlit
+openai
+pandas
+python-dotenv
+notion-client
