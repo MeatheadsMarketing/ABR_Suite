@@ -1,0 +1,1 @@
+# GPT Summary\n\nThis is a sample research summary.

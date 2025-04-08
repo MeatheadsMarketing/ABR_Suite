@@ -1,0 +1,1 @@
+# Trend Report\n\nTop AI trends identified.

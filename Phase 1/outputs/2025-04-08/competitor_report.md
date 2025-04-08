@@ -1,0 +1,1 @@
+# Competitor Report\n\nCompany-level activity breakdown.

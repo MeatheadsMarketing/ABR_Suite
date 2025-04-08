@@ -1,0 +1,9 @@
+{
+  "Actions": [
+    {
+      "Name": "Run Deep Research",
+      "UUID": "com.custom.deepresearch",
+      "Script": "/usr/bin/python3 /Users/macmini/Deep_Research_Workflow/deep_research_runner.py"
+    }
+  ]
+}
